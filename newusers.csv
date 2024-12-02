@@ -1,0 +1,6 @@
+voornaam;achternaam;username;SecurityGroep;OU
+Sem;Bos;Sem_Bos;Administratie;OU=Administratie,OU=Bedrijf,DC=examen137915,DC=com
+Roemer;Pasveer;Roemer_Pasveer;Inkoop-Verkoop;OU=Inkoop-Verkoop,OU=Bedrijf,DC=examen137915,DC=com
+Bart;Jonge;Bart_Jonge;IT;OU=IT,OU=Bedrijf,DC=examen137915,DC=com
+Dion;Rozeveld;Dion_Rozeveld;Marketing;OU=Marketing,OU=Bedrijf,DC=examen137915,DC=com
+Lennart;Koopman;Lennart_Koopman;Management;OU=Management,OU=Bedrijf,DC=examen137915,DC=com

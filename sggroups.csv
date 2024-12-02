@@ -1,0 +1,10 @@
+Name;GroupScope;GroupCategory;OU
+Cursussen2;Global;Security;OU=Cursussen,OU=Bedrijf,DC=examen137915,DC=com
+Coaching2;Global;Security;OU=Coaching,OU=Cursussen,OU=Bedrijf,DC=examen137915,DC=com
+Psychologie2;Global;Security;OU=Psychologie,OU=Cursussen,OU=Bedrijf,DC=examen137915,DC=com
+Taal2;Global;Security;OU=Taal,OU=Cursussen,OU=Bedrijf,DC=examen137915,DC=com
+Inkoop-Verkoop2;Global;Security;OU=Inkoop-Verkoop,OU=Bedrijf,DC=examen137915,DC=com
+Management2;Global;Security;OU=Management,OU=Bedrijf,DC=examen137915,DC=com
+Marketing2;Global;Security;OU=Marketing,OU=Bedrijf,DC=examen137915,DC=com
+Administratie2;Global;Security;OU=Administratie,OU=Bedrijf,DC=examen137915,DC=com
+IT2;Global;Security;OU=IT,OU=Bedrijf,DC=examen137915,DC=com
